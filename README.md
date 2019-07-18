@@ -1,0 +1,2 @@
+# Data-Shield
+This project aims at converting the plaintext into a form unreadable by unauthorized people and hence can be readily transferred across the web and decrypted at the recipient side only by authorized people. It provides an interactive environment to encrypt, decrypt or transfer encrypted files without compromising with the integrity and privacy of critical information. In the era of wide area, open distributed systems, this system will help resolve various security issues. 
